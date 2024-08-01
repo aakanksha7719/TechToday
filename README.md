@@ -1,4 +1,25 @@
-# NewsApp
-Problem statement was that, Readers have problem searching vast amount of information. So, to overcome this problem we have to organize the information in such format that user can easily interact with it. To overcome this problem I have built this responsive web application.
+# TechToday News Portal 🌐📰
 
-To solve the problem, we suppose to build a simple and minimal UI for the users, for that purpose we used, The HTML (Short for Hyper Text Markup Language) which is a standard markup language for documents designed to be displayed in web browser. To give our HTML page a simple and minimal look we used, CSS (Short for Cascading Style Sheet) which is a style sheet language used for describing the presentation of a documents. Now we were suppose to render information on our UI. For that we used JavaScript Which is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. We used the AJAX short for Asynchronous JavaScript and XML. It is set of web development techniques using many web technologies on the client-side to create asynchronous web applications. Asynchronous web applications simply means it deliver continuously updated application data to users. To achive this we used the AJAX. After that we need the data to render on our page. For that we used NewsAPI which is a simple HTTP REST API for retrieving live articles from all over the web. So here a quetion arrives what are the API. So API short for (Application Programming Interface), which is intermediary that allows two applications to talk to each other. After getting the data from NewsAPI we simply showcased this data to our UI with the help of JavaScript.
+**TechToday News Portal** is a responsive web application designed to tackle the challenge of navigating vast amounts of information. This app organizes news content in a user-friendly manner, making it easier for readers to search and interact with the latest articles.
+
+## Problem Statement
+
+Readers often struggle to sift through large volumes of information. **TechToday News Portal** addresses this by providing a streamlined and intuitive interface that organizes news content effectively. 
+
+## Technology Stack 🛠️
+
+To build a simple and minimal user interface, we used the following technologies:
+
+- **HTML (Hyper Text Markup Language)**: The backbone of our web pages, used to structure the content. 🌐
+- **CSS (Cascading Style Sheets)**: Styles the HTML content, giving our pages a clean and minimal look. 🎨
+- **JavaScript**: Adds interactivity and dynamically renders data on the user interface. 🚀
+- **AJAX (Asynchronous JavaScript and XML)**: Enables asynchronous web applications, allowing for continuous data updates without page refreshes. 🔄
+- **NewsAPI**: A simple HTTP REST API for retrieving live articles from around the web. 📰
+- **API (Application Programming Interface)**: Acts as an intermediary, allowing different applications to communicate with each other. 🤝
+
+## Features ✨
+
+- **Responsive Design**: Adapts to various screen sizes for a seamless experience on both desktop and mobile devices. 📱💻
+- **Dynamic Content**: Fetches and displays the latest news articles using NewsAPI. 📈
+- **Minimal UI**: Designed with a clean and simple interface to enhance user interaction. 🌟
+
